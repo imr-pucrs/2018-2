@@ -10,5 +10,5 @@ These are the final projects:
  * Integration of ROS and Multiprocessor System-on-Chip Simulator - ROS-MPSOC
  * Particle Filter Localization running on the ROS-MPSOC
  * Potential Field running on the ROS-MPSOC
- * COLREG (obstacle avoidance) rule for autonomous boat
+ * COLREG (obstacle avoidance) rule for autonomous boat implemented with Hierarchical Task Network (HTN) planning
  * replacement of the default local planner used in move-base by Astar
