@@ -11,3 +11,4 @@ These are the final projects:
  * Particle Filter Localization running on the ROS-MPSOC
  * Potential Field running on the ROS-MPSOC
  * COLREG (obstacle avoidance) rule for autonomous boat
+ * replacement of the default local planner used in move-base by Astar
