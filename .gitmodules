@@ -8,3 +8,6 @@
 	path = openai-ros
 	url = https://github.com/imr-pucrs/openai-ros
 
+[submodule "USV-Guider-HTN-USVSIM"]
+	path = USV-Guider-HTN-USVSIM
+	url = https://github.com/imr-pucrs/USV-Guider-HTN-USVSIM
