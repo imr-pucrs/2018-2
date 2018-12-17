@@ -1,10 +1,10 @@
 [submodule "ros-explorer"]
 	path = ros-explorer
-	url = https://github.com/imr-pucrs/ros-explorer.git
+	url = https://github.com/imr-pucrs/ros-explorer
 [submodule "Astar-move-base"]
 	path = Astar-move-base
-	url = https://github.com/imr-pucrs/Astar-move-base.git
+	url = https://github.com/imr-pucrs/Astar-move-base
 [submodule "openai-ros"]
 	path = openai-ros
-	url = https://github.com/imr-pucrs/openai-ros.git
+	url = https://github.com/imr-pucrs/openai-ros
 
