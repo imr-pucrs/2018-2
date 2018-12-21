@@ -11,3 +11,15 @@
 [submodule "USV-Guider-HTN-USVSIM"]
 	path = USV-Guider-HTN-USVSIM
 	url = https://github.com/imr-pucrs/USV-Guider-HTN-USVSIM
+[submodule "rl-turtlebot"]
+	path = rl-turtlebot
+	url = https://github.com/imr-pucrs/rl-turtlebot
+[submodule "ros-mpsoc"]
+	path = ros-mpsoc
+	url = https://github.com/imr-pucrs/ros-mpsoc
+[submodule "occupancy_grid"]
+	path = occupancy_grid
+	url = https://github.com/imr-pucrs/occupancy_grid
+[submodule "potential-fileds-ros"]
+	path = potential-fileds-ros
+	url = https://github.com/imr-pucrs/potential-fileds-ros
